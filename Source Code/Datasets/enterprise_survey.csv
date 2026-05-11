@@ -1,0 +1,11 @@
+Company,Sector,VisualizationTool,AnalyticsMaturity,DecisionAccuracyBefore,DecisionAccuracyAfter,DecisionTimeBefore,DecisionTimeAfter,EngagementBefore,EngagementAfter
+A,Finance,Power BI,High,78,92,92,18,5.2,8.7
+B,Healthcare,Tableau,Medium,74,88,84,24,5.0,8.2
+C,Retail,Power BI,High,76,90,89,20,5.4,8.5
+D,Manufacturing,Qlik,Medium,71,84,95,31,4.8,7.9
+E,Education,Excel,Low,65,79,110,42,4.2,7.1
+F,IT Services,Tableau,High,80,93,90,17,5.5,8.9
+G,Finance,Qlik,Medium,73,86,96,28,4.9,8.0
+H,Healthcare,Power BI,High,77,91,88,19,5.3,8.6
+I,Retail,Tableau,Medium,72,85,97,29,4.7,7.8
+J,Manufacturing,Excel,Low,63,76,114,44,4.0,6.9
